@@ -63,3 +63,8 @@ Once logged in navigate to the roles tab by clicking on Agents then Roles.
   <img width="1710" alt="Screenshot 2024-11-07 at 1 20 41 PM" src="https://github.com/user-attachments/assets/49486b87-246e-42d5-8aea-692abec9a857">
 </p>
 <p>Now we will configure the departments. </p>
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-07 at 2 55 37 PM" src="https://github.com/user-attachments/assets/b67f18e0-e316-4ae7-95b1-e2482d4e8b25">
+</p>
+<p>Click add new department. Create a top level department. </p>
