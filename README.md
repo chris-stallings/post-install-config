@@ -26,7 +26,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Create a new Department
 - Create a new Team
 - Configure Agents
-- Item 5
+- Create Users
+- Configure SLA
 
 <h2>Configuration Steps</h2>
 
@@ -97,3 +98,26 @@ Once logged in navigate to the roles tab by clicking on Agents then Roles.
 </p>
 <p>We will create two users. One named Karen and one named Ken.</p>
 <br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-07 at 5 21 42 PM" src="https://github.com/user-attachments/assets/13e0403a-9cd0-42c5-bd8f-a488c8067ebb">
+</p>
+<p>
+  Now we will create 3 different SLA. To do this go back to the admin panel. Then go to the manage tab. Now go to the SLA tab. We will create 3 SLA with the rules below:
+</p>
+
+- Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+- Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+- Sev-C (Grace Period: 8 hours, Business Hours)
+<p>
+  <img width="1710" alt="Screenshot 2024-11-07 at 5 51 43 PM" src="https://github.com/user-attachments/assets/cd94de84-8151-4516-a29f-11eeabbf8102">
+</p>
+<p>Now we will create 5 help topics to give users options when making help tickets. </p>
+
+- Business Critical Outage (Report a Problem)
+- Personal Computer Issue (Report A Problem)
+- Equipment Request (General Inquiry)
+- Password Reset (Report A Problem)
+- Other (General Inquiry)
+
+<br />
+<p>This concludes the post installation setup. Now you are ready to submit and work tickets.</p>
