@@ -23,9 +23,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Configure Roles for grouping permissions
-- Item 2
-- Item 3
-- Item 4
+- Create a new Department
+- Create a new Team
+- Configure Agents
 - Item 5
 
 <h2>Configuration Steps</h2>
@@ -67,4 +67,22 @@ Once logged in navigate to the roles tab by clicking on Agents then Roles.
 <p>
   <img width="1710" alt="Screenshot 2024-11-07 at 2 55 37 PM" src="https://github.com/user-attachments/assets/b67f18e0-e316-4ae7-95b1-e2482d4e8b25">
 </p>
-<p>Click add new department. Create a top level department. </p>
+<p>Click add new department. Create a top level department. The name will be SysAdmins. Leave everything else default.</p>
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-07 at 3 18 26 PM" src="https://github.com/user-attachments/assets/3d96a32b-8d82-4237-919a-a21347ebdd60">
+</p>
+<p>
+  Next we will create a new team. We will call this team Online Banking. Leave all other options default. 
+</p>
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-07 at 3 32 17 PM" src="https://github.com/user-attachments/assets/eb2f0979-f711-4abb-a0fa-ac454507b9fe">
+</p>
+<p>We will create a user Jane Doe. Make sure to set the password as something you will remember. Set Jane as a Supreme Admin in the SysAdmin department. These options are on the access tab. Finally go to the teams </p>
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-07 at 4 18 35 PM" src="https://github.com/user-attachments/assets/100e2b6d-3786-42a0-9b27-317588e2ec01">
+</p>
+<p>Next we will create the user John Doe. Set his password as something you will remember. Set John as a view only in the Support department. Everything else will be left as default.</p>
+<br />
