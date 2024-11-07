@@ -47,9 +47,10 @@ Once logged in navigate to the roles tab by clicking on Agents then Roles.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1710" alt="Screenshot 2024-11-07 at 12 56 35 PM" src="https://github.com/user-attachments/assets/8af6b61b-6dfa-40a9-abff-fe6c3e9b7ffd">
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+- Click add a new role. 
+- Name will be Supreme Admin
+-  
 <br />
