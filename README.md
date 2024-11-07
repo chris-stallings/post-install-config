@@ -86,3 +86,14 @@ Once logged in navigate to the roles tab by clicking on Agents then Roles.
 </p>
 <p>Next we will create the user John Doe. Set his password as something you will remember. Set John as a view only in the Support department. Everything else will be left as default.</p>
 <br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-07 at 4 28 21 PM" src="https://github.com/user-attachments/assets/8ccf239c-74d5-4e34-bdce-cd93b136f46c">
+</p>
+<p>
+  Next we will move to the agent panel. We are going to create a user. 
+</p>
+<br />
+<p><img width="1710" alt="Screenshot 2024-11-07 at 4 42 55 PM" src="https://github.com/user-attachments/assets/2ed5ca64-5be6-4b14-9d88-652fd331843f">
+</p>
+<p>We will create two users. One named Karen and one named Ken.</p>
+<br />
