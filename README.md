@@ -52,5 +52,14 @@ Once logged in navigate to the roles tab by clicking on Agents then Roles.
 
 - Click add a new role. 
 - Name will be Supreme Admin
--  
+- Go to the permissions tab and make sure everything is checked.  
 <br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-07 at 1 04 41 PM" src="https://github.com/user-attachments/assets/e8a01d51-17b6-4c45-9c40-3887ee80727c">
+</p>
+<p>Click create role and this will give us the new role. </p>
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-07 at 1 20 41 PM" src="https://github.com/user-attachments/assets/49486b87-246e-42d5-8aea-692abec9a857">
+</p>
+<p>Now we will configure the departments. </p>
