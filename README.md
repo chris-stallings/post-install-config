@@ -86,7 +86,7 @@ Once logged in navigate to the roles tab by clicking on Agents then Roles.
 <p>
   <img width="1710" alt="Screenshot 2024-11-07 at 4 18 35 PM" src="https://github.com/user-attachments/assets/100e2b6d-3786-42a0-9b27-317588e2ec01">
 </p>
-<p>Next we will create the user John Doe. Set his password as something you will remember. Set John as a view only in the Support department. Everything else will be left as default.</p>
+<p>Next we will create the user John Doe. Set his password as something you will remember. Set John as an all access user in the Support department. Everything else will be left as default.</p>
 <br />
 <p>
   <img width="1710" alt="Screenshot 2024-11-07 at 4 28 21 PM" src="https://github.com/user-attachments/assets/8ccf239c-74d5-4e34-bdce-cd93b136f46c">
